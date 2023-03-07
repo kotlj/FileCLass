@@ -1,0 +1,3 @@
+﻿  Homework_FileClass.cpp
+C:\Users\Admin\source\repos\Homework_FileClass\Homework_FileClass\Homework_FileClass.cpp(48,30): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Homework_FileClass.vcxproj -> C:\Users\Admin\source\repos\Homework_FileClass\x64\Debug\Homework_FileClass.exe
